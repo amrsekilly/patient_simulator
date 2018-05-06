@@ -1,0 +1,15 @@
+{
+  "name": "patient_simulator",
+  "version": "1.0.0",
+  "description": "a simulator that sends data to firebase simulating an ECG patient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amr Elsekilly",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^2.0.0",
+    "fast-csv": "^2.4.1"
+  }
+}
